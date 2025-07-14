@@ -20,7 +20,7 @@ Text Appender: https://agents.zapier.com/copy/da74ac90-6595-49d3-b3b1-6002d80e9f
 https://agents.zapier.com/copy/5613a2a2-14e3-41da-a060-074ad66e5af4
 
 ##### Link to Custom GPT
-[REPLACE WITH NEW LINK]
+https://chatgpt.com/g/g-686d42e0b0248191baf310186f154db1-contract-policy-comparator
 
 ### Problems and Next Steps
 As this was just to show the potential of agents, as these services undoubtedly improve, we can iterate on prompting to eliminate inconsistencies with scraping. Also, soon we should be able to have the Zap compare yesterday's and today's document internally, fully consolidating the process to one, autonomous platform. 
